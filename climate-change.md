@@ -252,9 +252,10 @@ Let's prioritize
 
 ---
 
-![inline](images/after.PNG)
 
-# My footprint today (thank you remote work!)
+![left 25%](images/before.PNG)
+![right 25%](images/after.PNG)
+
 
 ---
 
