@@ -368,3 +368,10 @@ It's **really** not too late, but we need to act now.
 ## **Reduce**
 ## Reuse
 ## Recycle
+
+---
+
+# Sources : 
+
+* https://github.com/jlengrand/climate-change-quickie/
+* https://twitter.com/jlengrand/status/1454068295225708551?s=21
