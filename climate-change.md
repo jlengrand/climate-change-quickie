@@ -44,7 +44,7 @@ slidenumbers: true
 
 ![inline](images/emissions.png)
 
-* **48%** of world total global emissions since I was born
+ **48%** of world total global emissions since I was born
 
 ---
 
@@ -99,6 +99,10 @@ And a lot of latency
 
 ---
 
+# 99.99999%
+
+---
+
 <!-- ^ https://www.youtube.com/watch?v=GhfpyT-b-bA
 
 Backend, reactive
@@ -121,7 +125,7 @@ The version of your tools matter
 
 ![inline](images/litreact.png)
 
-And maybe you don't need a framework
+Also, maybe you don't need a framework
 
 [^1]: Source [bundlephobia](https://bundlephobia.com/)
 
@@ -135,35 +139,53 @@ Choice of technology matters
 
 ---
 
-
 ^ https://www.theverge.com/circuitbreaker/2019/2/21/18234615/nike-adapt-bb-fix-android-bug-firmware-update-patch
 
 
 ![inline](images/sneakers.png)
 
-
 > Your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should.
 -- Dr Ian Malcolm, Jurassic Park
 
-<!-- Best feature is the one that doesn't exist. Do we _really_ need this? -->
-<!-- Do we need self warming mugs, with updates? 9999999? -->
+---
+
+^ https://principles.green/
+
+![inline](images/principles.png)
+
+[Principles of Green Software Engineering](https://principles.green/)
+
 
 ---
 
-# 99.99999%
+^ https://httparchive.org/reports/page-weight
+
+![inline](images/websize.png)
+
+Average web page size raised by **1240%** in 10 years
 
 ---
 
+^ 80% of the cost is in the production of devices. Let's make sure NOT to need to change devices.
+^ https://mossy.earth/guides/lifestyle/sustainable-and-ethical-smartphones
 
-80% of the cost is in the production of devices. Let's make sure NOT to need to change devices.
+
+![inline](images/phoneco2.jpeg)
+
+Your users' smartphone
 
 ---
 
-phone change, 10 years battery
+- average mobile phone : **55 kg** of carbon emissions
+- **1.55 billion** phones are sold per year 
+
+- EU 2019 : **14.2 million tonnes** of CO2
 
 ---
 
-https://principles.green/
+^ https://www.theguardian.com/commentisfree/2021/sep/18/want-to-save-the-earth-then-dont-buy-that-shiny-new-iphone
+
+**Buying** one new phone takes as much energy as recharging and operating a smartphone **for an entire decade**
 
 ---
 
@@ -171,107 +193,153 @@ https://principles.green/
 
 ---
 
-How many of you have a < 400$ phone? How many of you have a > 2000$ laptop? 
+^ How many of you have a < 400$ phone? How many of you have a > 2000$ laptop? 
+
+How many of you . . . ?
 
 ---
 
-Remember this guy ? M1 Pro
+![inline](images/macpro.jpeg)
 
 ---
 
-Let's dive into CO2 consumption of the typical European
-
-Only a 1/3 is Tech
+# A dive into my carbon footprint
 
 ---
 
-To wish the change, you have to _be_ the change. 
+>  If you're asking your kids to exercise, then you better do it, too. Practice what you preach.
 
 ---
 
-Conferences. Need to go to Java One ? That's your whole year of meat
+# CO2 emissions in a nutshell 
 
-
----
-
-reminder, 2 Tons.
-
+- Global average : 4.5 Tons / person / year
+- Average Netherlands : 8.42 Tons / person / year
+- **Target : 3 Tons / person / year**
 
 ---
 
-We need to act now, on all fronts
+^ https://apps.apple.com/us/app/earth-hero-climate-change/id1458057746
+
+
+![inline](images/before.PNG)
+
+# My footprint in 2018
 
 ---
 
-Situation C02 Netherlands
-
-
----
-
-
-C02 comsumption before and now
+* Tech represents **only 1/3** of my emissions
+* Over half is me travelling
+* A trip to San Fransisco = roughly **2 Tons** of CO2
 
 ---
 
-if you are not the change, who is money
+![inline](images/facile.PNG)
+
+Let's prioritize
 
 ---
 
-no guilt shaming, we are not perfect. No zealots
+![inline](images/after.PNG)
+
+# My footprint today (thank you remote work!)
 
 ---
 
-We are just 1%. Yes, but.
+![inline](images/desk.jpeg)
+
+
+We are not **perfect**. We don't need to be zealots
 
 ---
+
+![inline](images/garden.jpeg)
+
+But we do need to be passionate
+
+---
+
+![inline](images/garden2.jpeg)
+
+And bring the next generation with us
+
+---
+
+![right](images/trees.png)
+
+
+And we can compensate for what we can't reduce.
+
+---
+
+# Some additional thoughts
+
+---
+
+^ https://wid.world/simulator/
+^ https://www.theguardian.com/environment/2020/sep/21/worlds-richest-1-cause-double-co2-emissions-of-poorest-50-says-oxfam
+
+> Globally, the richest 10% are those with incomes above about $35,000 a year...
+
+
+If we are not the change, who is ?
+
+---
+
+> **The richest 10%** of the global population, are responsible for about **52% of global emissions ...**
+
+"We are just 1% of emissions".
+
+---
+
+^ https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix
+
+![inline](images/netflix.png)
 
 Check your facts
-Netflix thing
-
-one is certain -> 99% concensus
-
-https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix
----
-
-It's the corporations. True. But we have 2 choices: 
-
-* Reduce consumption
-* Vote! 
-* Don't work there.
 
 ---
 
-Life is fun out of tech! 
+![right 80%](images/companies.png)
 
-Garden. 70% of my food.
 
----
+**"It's the big corporations". True but**
 
-Best time to be alive. Don't lose hope 
-No dooming
-
----
-
-It's really not too late, at your level.
+- We buy their products
+- We work there
+- We vote 
 
 ---
 
-REDUCE 
-REUSE 
-RECYCLE
+![inline](images/commitment.png)
 
----
 
-What to do tomorrow : 
+And many are starting to change
 
-* Yourself first, others second
-* Reduce, reduce, reduce, 
-* Spread the word
 
 
 ---
 
-Le problème en ce bas monde est que les imbéciles sont sûrs d’eux et fiers comme des coqs de basse cour, alors que les gens intelligents sont emplis de doute.
+# Final tips! 
+
+---
+
+> No dooming
+
+Best time to be alive. Don't lose hope
+
+---
+
+![right](images/small.png)
+
+
+It's **really** not too late, but we need to act now.
+
+---
+
+## **Reduce**
+## Reuse
+## Recycle
 
 ---
 
