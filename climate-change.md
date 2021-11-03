@@ -36,6 +36,15 @@ slidenumbers: true
 
 ---
 
+> Content
+
+- Current situation
+- Tackling it with Tech
+- A personal take
+- Final tips! 
+
+---
+
 # Let's look into the situation before diving further
 
 ---
@@ -99,7 +108,9 @@ And a lot of latency
 
 ---
 
-# 99.99999%
+Do you really need 
+
+> 99.99999%
 
 ---
 
@@ -203,13 +214,15 @@ How many of you . . . ?
 
 ---
 
+>  If you're asking your kids to exercise, then you better do it, too. Practice what you preach.
+
+---
+
 # A dive into my carbon footprint
 
 ---
 
->  If you're asking your kids to exercise, then you better do it, too. Practice what you preach.
 
----
 
 # CO2 emissions in a nutshell 
 
@@ -259,16 +272,16 @@ But we do need to be passionate
 
 ---
 
-![inline](images/garden2.jpeg)
+![inline](images/garden2.jpg)
 
 And bring the next generation with us
 
 ---
 
-![right](images/trees.png)
+![inline](images/trees.png)
 
 
-And we can compensate for what we can't reduce.
+We can compensate for what we can't reduce.
 
 ---
 
@@ -316,11 +329,20 @@ Check your facts
 
 And many are starting to change
 
-
-
 ---
 
 # Final tips! 
+
+---
+
+![inline](images/facile.PNG)
+
+Prioritize
+
+---
+
+![inline](images/sinterklaas.jpeg)
+
 
 ---
 
