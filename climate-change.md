@@ -305,11 +305,10 @@ If we are not the change, who is ?
 
 ---
 
-^ https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix
+^ https://twitter.com/dorrismccomics/status/1455532264960499715
 
-![inline](images/netflix.png)
 
-Check your facts
+![inline](images/corporations.jpeg)
 
 ---
 
@@ -327,7 +326,15 @@ Check your facts
 ![inline](images/commitment.png)
 
 
-And many are starting to change
+And many are committing
+
+---
+
+^ https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix
+
+![inline](images/netflix.png)
+
+Check your facts
 
 ---
 
@@ -379,14 +386,3 @@ At the end of this talk, attendees will :
 * Know more about the impact of IT on climate change, in a factual way
 * Learn about specific technologies and tools that can make an impact on their applications in terms of energy consumption
 * Have clear and specific action items to reduce their footprint, and further
-
-
----
-
-???? https://github.com/cnumr/GreenIT-Analysis
-
----
-
-
-https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix
-
