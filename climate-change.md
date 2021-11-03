@@ -174,6 +174,21 @@ Choice of technology matters
 
 Average web page size raised by **1240%** in 10 years
 
+<!-- --- -->
+
+<!-- - average mobile phone : **55 kg** of carbon emissions
+- **1.55 billion** phones are sold per year 
+
+- EU 2019 : **14.2 million tonnes** of CO2 -->
+
+---
+
+^ https://www.coolblue.nl/en/advice/lifespan-smartphone.html#:~:text=The%20Consumentenbond%20estimates%20the%20average,last%2015%20to%2018%20months.
+
+The Consumentenbond estimates **the average lifespan at 2.5 years**. 
+
+<!-- Other sources indicate that a new smartphone will last **15 to 18 months**. -->
+
 ---
 
 ^ 80% of the cost is in the production of devices. Let's make sure NOT to need to change devices.
@@ -183,13 +198,6 @@ Average web page size raised by **1240%** in 10 years
 ![inline](images/phoneco2.jpeg)
 
 Your users' smartphone
-
----
-
-- average mobile phone : **55 kg** of carbon emissions
-- **1.55 billion** phones are sold per year 
-
-- EU 2019 : **14.2 million tonnes** of CO2
 
 ---
 
