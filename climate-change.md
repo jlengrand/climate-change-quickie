@@ -1,7 +1,6 @@
 footer: @jlengrand
 slidenumbers: true
 
-
 # What can I do about climate change as a developer... and a human being? 
 
 --- 
@@ -369,20 +368,3 @@ It's **really** not too late, but we need to act now.
 ## **Reduce**
 ## Reuse
 ## Recycle
-
----
-
-We are all well aware of it : the current trend of climate change is not looking great. We can already feel some of its consequences and it is very likely to only become worse.
-Tech is driving the world though, and us developers can surely help make an impact to bend the curve. So let's dive into the topic together and see how we can debug it!
-
-In this talk, we will look into the current situation, globally but also in the tech space. We will dive into the impact that we can make on our applications as developers.
-We will start by talking about our technical stack and what we can do to improve it, from reactive architectures to web performance. We will run the numbers and see the kind of improvements we can reach there.
-But we will also look into the larger perspective of things, and look closer at our own personal footprint.
-
-The future may look uncertain, but we can all start making a difference today and look at things in a positive way. So let's debug!
-
-At the end of this talk, attendees will :
-
-* Know more about the impact of IT on climate change, in a factual way
-* Learn about specific technologies and tools that can make an impact on their applications in terms of energy consumption
-* Have clear and specific action items to reduce their footprint, and further
