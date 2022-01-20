@@ -253,7 +253,7 @@ How many of you . . . ?
 
 ---
 
-![inline](images/facile.PNG)
+![inline](images/impact.PNG)
 
 Let's prioritize
 
@@ -359,7 +359,7 @@ Check your facts
 
 ---
 
-![inline](images/facile.PNG)
+![inline ](images/impact.png)
 
 Prioritize
 
