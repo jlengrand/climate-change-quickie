@@ -11,7 +11,7 @@ slidenumbers: true
 
 - Julien
 - Developer Advocate **@Adyen**
-- Java Magazine
+- Kotlin GDE
 - **@jlengrand**
 
 <br/>
@@ -109,9 +109,9 @@ And a lot of latency
 
 Do you really need 
 
-> 99.99999%
+> **99.99999%**
 
----
+<!-- --- -->
 
 <!-- ^ https://www.youtube.com/watch?v=GhfpyT-b-bA
 
@@ -123,11 +123,11 @@ frameworks
 
 --- -->
 
-^ https://hal.inria.fr/hal-03275286/document
+<!-- ^ https://hal.inria.fr/hal-03275286/document
 
 ![inline](images/hotspot.png)
 
-The version of your tools matter
+The version of your tools matter -->
 
 ---
 
@@ -159,14 +159,6 @@ Choice of technology matters
 
 ---
 
-^ https://principles.green/
-
-![inline](images/principles.png)
-
-[Principles of Green Software Engineering](https://principles.green/)
-
-
----
 
 ^ https://httparchive.org/reports/page-weight
 
@@ -185,7 +177,7 @@ Average web page size raised by **1240%** in 10 years
 
 ^ https://www.coolblue.nl/en/advice/lifespan-smartphone.html#:~:text=The%20Consumentenbond%20estimates%20the%20average,last%2015%20to%2018%20months.
 
-The Consumentenbond estimates **the average lifespan at 2.5 years**. 
+In the Netherlands, **the average lifespan of a phone 2.5 years**. 
 
 <!-- Other sources indicate that a new smartphone will last **15 to 18 months**. -->
 
@@ -216,12 +208,14 @@ Your users' smartphone
 How many of you . . . ?
 
 ---
-
+<!-- 
 ![inline](images/macpro.jpeg)
 
----
+--- -->
 
 >  If you're asking your kids to exercise, then you better do it, too. Practice what you preach.
+
+<!-- > *Caitlyn Jenner* -->
 
 ---
 
@@ -231,24 +225,29 @@ How many of you . . . ?
 
 
 
-# CO2 emissions in a nutshell 
+<!-- # CO2 emissions in a nutshell 
 
-- Global average : 4.5 Tons / person / year
+- Global average :  Tons / person / year
 - Average Netherlands : 8.42 Tons / person / year
 - **Target : 3 Tons / person / year**
 
----
+--- -->
 
 ^ https://apps.apple.com/us/app/earth-hero-climate-change/id1458057746
 
 
-![inline](images/before.PNG)
+![right fit](images/before.png)
 
 # My footprint in 2018
 
+* Me : **17.4 Tons / year**
+* NL : 10.8 Tons / year
+* Global : 5.1 Tons / year
+* **Goal : 3 Tons / year**
+
 ---
 
-* Tech represents **only 1/3** of my emissions
+* Tech represents **only 1/5** of my emissions
 * Over half is me travelling
 * A trip to San Fransisco = roughly **2 Tons** of CO2
 
@@ -261,8 +260,8 @@ Let's prioritize
 ---
 
 
-![left 25%](images/before.PNG)
-![right 25%](images/after.PNG)
+![left fit](images/before.PNG)
+![right fit](images/after.PNG)
 
 
 ---
@@ -270,7 +269,7 @@ Let's prioritize
 ![inline](images/desk.jpeg)
 
 
-We are not **perfect**. We don't need to be zealots
+We are not **perfect**. We get better every day
 
 ---
 
@@ -300,7 +299,7 @@ We can compensate for what we can't reduce.
 ^ https://wid.world/simulator/
 ^ https://www.theguardian.com/environment/2020/sep/21/worlds-richest-1-cause-double-co2-emissions-of-poorest-50-says-oxfam
 
-> Globally, the richest 10% are those with incomes above about $35,000 a year...
+> Globally, the **richest 10%** are those with incomes **above $35,000** a year...
 
 
 If we are not the change, who is ?
@@ -338,6 +337,11 @@ And many are committing
 
 ---
 
+
+# Final tips! 
+
+---
+
 ^ https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix
 
 ![inline](images/netflix.png)
@@ -346,7 +350,12 @@ Check your facts
 
 ---
 
-# Final tips! 
+^ https://principles.green/
+
+![inline](images/principles.png)
+
+[Principles of Green Software Engineering](https://principles.green/)
+
 
 ---
 
@@ -356,10 +365,10 @@ Prioritize
 
 ---
 
-![inline](images/sinterklaas.jpeg)
+<!-- ![inline](images/sinterklaas.jpeg)
 
 
----
+--- -->
 
 > No dooming
 
@@ -383,4 +392,3 @@ It's **really** not too late, but we need to act now.
 # Sources : 
 
 * https://github.com/jlengrand/climate-change-quickie/
-* https://twitter.com/jlengrand/status/1454068295225708551?s=21
